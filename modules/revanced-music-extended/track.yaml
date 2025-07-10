@@ -1,0 +1,5 @@
+id: revanced-music-extended
+enabled: true
+verified: true
+source: https://github.com/NoName-exe/revanced-extended
+update_to: https://raw.githubusercontent.com/NoName-exe/revanced-extended/refs/heads/update/youtube-update.json

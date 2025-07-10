@@ -1,10 +1,10 @@
 {
-  "name": "Template Magisk Modules Repository",
+  "name": "towjacix personal magisk repository.",
   "website": null,
   "support": null,
   "donate": null,
   "submission": null,
-  "base_url": "https://example.com/",
+  "base_url": "https://github.com/towjacix/towjacix-magisk-repo/",
   "description": null,
   "max_num": 2,
   "enable_log": true,

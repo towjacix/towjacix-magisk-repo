@@ -1,0 +1,71 @@
+{
+  "id": "gitxtoepo",
+  "name": "towjacix personal magisk repository.",
+  "website": null,
+  "support": null,
+  "donate": null,
+  "submission": null,
+  "cover": "https://github.com/towjacix/towjacix-magisk-repo/assets/cover.webp",
+  "description": null,
+  "metadata": {
+    "version": 1,
+    "timestamp": 1752165407.402641
+  },
+  "modules": [
+    {
+      "id": "bindhosts",
+      "name": "bindhosts",
+      "version": "v2.0.5",
+      "versionCode": 205,
+      "author": "xx, KOWX712",
+      "description": "Systemless hosts for APatch, KernelSU and Magisk ",
+      "verified": true,
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+      ],
+      "categories": [
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk"
+      ],
+      "support": "https://github.com/bindhosts/bindhosts/issues",
+      "license": "WTFPL",
+      "added": 0,
+      "timestamp": 1750727025.0,
+      "size": 116707,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/bindhosts/bindhosts",
+        "antifeatures": null,
+        "build_metadata": "https://github.com/towjacix/towjacix-magisk-repo/modules/bindhosts/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1750727025.0,
+          "version": "v2.0.5",
+          "versionCode": 205,
+          "zipUrl": "https://github.com/towjacix/towjacix-magisk-repo/modules/bindhosts/v2.0.5_205.zip",
+          "changelog": "https://github.com/towjacix/towjacix-magisk-repo/modules/bindhosts/v2.0.5_205.md",
+          "size": 116707
+        }
+      ]
+    }
+  ]
+}

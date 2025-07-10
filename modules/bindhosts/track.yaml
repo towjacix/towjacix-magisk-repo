@@ -1,5 +1,7 @@
-id: bindhosts
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/update.json      
+id: bindhosts
+last_update: 1750727025.0
 source: https://github.com/bindhosts/bindhosts
+update_to: https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/update.json
+verified: true
+versions: 1

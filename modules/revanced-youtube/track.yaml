@@ -1,4 +1,4 @@
 id: revanced-youtube
 enable: true
 source: https://github.com/j-hc/revanced-magisk-module/tree/update
-update_to: https://raw.githubusercontent.com/towjacix-magisk-repo/revanced-magisk-module/refs/heads/update/youtube-update.json
+update_to: https://raw.githubusercontent.com/revanced-magisk-module/revanced-magisk-module/refs/heads/update/youtube-update.json
